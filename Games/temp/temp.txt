@@ -1,0 +1,5 @@
+New directory created: Games\src
+New directory created: Games\src\main
+New directory created: Games\src\test
+New file created: Games\src\main\Main.java
+New file created: Games\src\main\Utils.java
